@@ -30,7 +30,7 @@ Install the Python version needed for this project using `pyenv` with the follow
 
     pyenv install 3.8
 
-Currently we can set to version 3.9 but can be open for other versions as well.
+Currently we can set to version 3.8 but can be open for other versions as well.
 
 #### Create a Virtual Environment
 Create a new virtual environment for the project:
