@@ -1,0 +1,6 @@
+PreProcessing to be made:
+1. Laplacian spatial filtering of raw data (see SpatialFilter); 2. Mu - Beta waves decomposition;
+3. Logarithmic Band Power processing;
+4. Trial extraction;
+5. ERD/ERS computation;
+6. ERD/ERS Trial Visualization and ERD/ERS Topoplots (see plot_AvgERD);
