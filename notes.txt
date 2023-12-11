@@ -4,4 +4,4 @@ PreProcessing to be made:
 3. Logarithmic Band Power processing;
 4. Trial extraction;
 5. ERD/ERS computation;
-6. ERD/ERS Trial Visualization and ERD/ERS Topoplots (see plot_AvgERD);
+6. ERD/ERS Trial Visualization and ERD/ERS Topoplots ;
